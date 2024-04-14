@@ -1,0 +1,72 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pizza Hut",
+      "category": "",
+      "price": 23.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/4.jpg?v=1660623210",
+      "count": 1
+    },
+    {
+      "id": 2,
+      "name": "Mixed Vegetables",
+      "category": "",
+      "price": 20.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/7.jpg?v=1660623200",
+      "count": 1
+    },
+    {
+      "id": 3,
+      "name": "Hamburgers",
+      "category": "",
+      "price": 20.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/8.jpg?v=1660623196",
+      "count": 1
+    },
+    {
+      "id": 4,
+      "name": "Shawarma Kati",
+      "category": "",
+      "price": 20.00,
+      "originalPrice": 22.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/10.jpg?v=1660623189",
+      "count": 1,
+      "discount": -10
+    },
+    {
+      "id": 5,
+      "name": "Shish Kebab Pizza",
+      "category": "",
+      "price": 21.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/11.jpg?v=1660623186",
+      "count": 1
+    },
+    {
+      "id": 6,
+      "name": "Pepperoni Pizza",
+      "category": "Shoes",
+      "price": 26.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/13.jpg?v=1660623179",
+      "count": 1
+    },
+    {
+      "id": 7,
+      "name": "Marinated Chicken",
+      "category": "",
+      "price": 28.00,
+      "originalPrice": 30.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/14.jpg?v=1660623176",
+      "count": 1,
+      "discount": -7
+    },
+    {
+      "id": 8,
+      "name": "Sushi Sashimi",
+      "category": "",
+      "price": 20.00,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/16.jpg?v=1660623172",
+      "count": 1
+    }
+  ]
+}

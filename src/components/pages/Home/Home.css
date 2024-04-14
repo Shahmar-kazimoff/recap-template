@@ -1,0 +1,73 @@
+.discount {
+    color: white;
+    font-size: 12px;
+    font-weight: 700;
+    padding-left: 15px;
+    position: absolute;
+    top: 0;
+    right: -20px;
+    cursor: pointer;
+    border-bottom: 20px solid red;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    height: 10px;
+    width: 90px;
+    transform: rotate(45deg);
+}
+
+.product {
+    position: relative;
+    cursor: pointer;
+}
+
+.addCart {
+    position: absolute;
+    bottom: -40px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    opacity: 0;
+    transition: bottom 0.3s ease, opacity 0.3s ease;
+}
+
+.product:hover .addCart {
+    bottom: 4%;
+    opacity: 1;
+}
+
+.spacing-let {
+    letter-spacing: 3px;
+}
+
+.underline-color {
+    text-decoration-color: green;
+}
+
+.slick-prev:before {
+    position: absolute;
+    top: 0;
+    left: 25px;
+}
+
+.slick-next:before {
+    position: absolute;
+    top: 0;
+    right: 24px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: black !important;
+
+}
+
+.slide-part {
+    display: flex !important;
+    gap: 10px;
+    align-items: center;
+    border: 1px solid lightgrey;
+    padding: 20px !important;
+    border-radius: 10px;
+}
